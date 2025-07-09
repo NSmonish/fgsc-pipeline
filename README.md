@@ -1,6 +1,6 @@
 # FGSC Pipeline: Feature-Guided Stellar Classification
 
-This repository contains the implementation of the **Feature-Guided Stellar Classification (FGSC)** pipeline proposed in our 2024 paper submitted to *Astronomy and Computing*. The method integrates **fractal geometry** and **topological data analysis (TDA)** to improve the classification of astronomical spectra.
+This repository contains the implementation of the **Feature-Guided Stellar Classification (FGSC)** pipeline. The method integrates **fractal geometry** and **topological data analysis (TDA)** to improve the classification of astronomical spectra.
 
 ## 🛰️ Overview
 
